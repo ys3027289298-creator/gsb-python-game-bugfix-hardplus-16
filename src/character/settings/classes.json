@@ -1,0 +1,107 @@
+{
+    "dark-elf": {
+        "duelist": {
+            "force": 5,
+            "agility": 4,
+            "vitality": 4,
+            "intelligence": 2,
+            "resistance": 3,
+            "skills": [
+                "duelism",
+                "combat with two weapons"
+            ]
+        },
+        "mage": {
+            "force": 3,
+            "agility": 3,
+            "vitality": 4,
+            "intelligence": 6,
+            "resistance": 2,
+            "skills": [
+                "conjuration",
+                "arcana recovery"
+            ]
+        },
+        "assassin": {
+            "force": 4,
+            "agility": 6,
+            "vitality": 4,
+            "intelligence": 2,
+            "resistance": 2,
+            "skills": [
+                "supernatural dodge",
+                "luckt strike"
+            ]
+        }
+    },
+    "forest-elf": {
+        "warrior": {
+            "force": 5,
+            "agility": 4,
+            "vitality": 4,
+            "intelligence": 2,
+            "resistance": 3,
+            "skills": [
+                "wild combat form",
+                "wild form of elemental"
+            ]
+        },
+        "mage": {
+            "force": 3,
+            "agility": 2,
+            "vitality": 5,
+            "intelligence": 6,
+            "resistance": 2,
+            "skills": [
+                "circle spells",
+                "natural recovery"
+            ]
+        },
+        "warden": {
+            "force": 3,
+            "agility": 4,
+            "vitality": 4,
+            "intelligence": 2,
+            "resistance": 5,
+            "skills": [
+                "dodge fortification",
+                "hybrid defense"
+            ]
+        }
+    },
+    "grey-elf": {
+        "warrior": {
+            "force": 7,
+            "agility": 2,
+            "vitality": 5,
+            "intelligence": 2,
+            "resistance": 2,
+            "skills": [
+                "get your breath back",
+                "combat with big weapons"
+            ]
+        },
+        "mage": {
+            "force": 3,
+            "agility": 2,
+            "vitality": 5,
+            "intelligence": 6,
+            "resistance": 2,
+            "skills": [
+                "overload",
+                "arcana recovery"
+            ]
+        },
+        "warden": {
+            "force": 3,
+            "agility": 2,
+            "vitality": 4,
+            "intelligence": 2,
+            "resistance": 7,
+            "skills": [
+                "fortification",
+                "defense specialist"
+            ]
+        }
+    }
+}
